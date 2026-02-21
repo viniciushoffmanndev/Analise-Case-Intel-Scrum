@@ -7,7 +7,7 @@ Intel.
 
 ## Redução do Cycle Time
 
-![Cycle Time](/mnt/data/cycle_time.png)
+![Cycle Time](images/cycle_time.png)
 
 ## Atrasos de Cronograma
 
